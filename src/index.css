@@ -127,7 +127,7 @@ body{
     @apply bg-background text-foreground;
   }
 }
-
+/* 
 @layer utilities{
   .gradient{
     @apply bg-gradient-to-br from-gray-500 via-zinc-200 to-white;
@@ -135,4 +135,4 @@ body{
   .gradient-title{
     @apply gradient text-transparent bg-clip-text;
   }
-}
+} */
